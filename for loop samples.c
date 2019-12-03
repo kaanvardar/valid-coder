@@ -28,8 +28,8 @@ int main()
 		for(j=1; j<=10; j++)
 		{
 			printf("%d x %d = %d\n",i,j,(i*j));
-		} //bu süslü parantezin hemen üstüne yani içerdeki for döngüsüne geri döner.
-		  // 11 oldugunda j<=10 'u saðlamadýðý için dýþardaki for döngüsüne geçer.
+		} //bu sÃ¼slÃ¼ parantezin hemen Ã¼stÃ¼ne yani iÃ§erdeki for dÃ¶ngÃ¼sÃ¼ne geri dÃ¶ner.
+		  // 11 oldugunda j<=10 'u saÃ°lamadÃ½Ã°Ã½ iÃ§in dÃ½Ã¾ardaki for dÃ¶ngÃ¼sÃ¼ne geÃ§er.
 		printf("\n");	
 	}
 }
