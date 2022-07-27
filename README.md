@@ -1,2 +1,2 @@
 # valid-coder
-I'm sharing  codes and projects.
+Sharing basic codes.
